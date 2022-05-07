@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["ron", "ron", [255, 216, 0]],
+		["trouble", "gloopbob", [255, 255, 255]],
+		["onslaught", "glitchedbob", [15, 15, 15]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
